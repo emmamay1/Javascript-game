@@ -1,0 +1,47 @@
+#body {
+	margin: 0;
+}
+
+h1{
+	text-align: center;
+}
+
+#contain {
+	width: 100%;
+	text-align: center;
+}
+
+.game {
+	display: inline;
+	background: blue;
+	top: 0;
+	left: 0;
+}
+
+#game{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+button {
+	margin: auto;
+}
+
+
+/* Buttons */ 
+
+.level1, .level2, .level3{
+	color: black;
+	background-color: dodgerblue;
+	padding: 20px;
+	text-align: center;
+	border: none;
+	border-radius: 25%;
+	display: block;
+	width: 10%;
+	margin-left: 0;
+	margin-right: 0;
+	position: relative;
+	top: 150px;
+}
